@@ -1,0 +1,46 @@
+.navigasi {
+    background-color: aqua;
+}
+
+.main {
+    background-color: yellow;
+}
+
+.main span {
+    background-color: red;
+}
+
+.navigasi li {
+    display: inline;
+}
+
+/*h1 {
+    color: bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: normal;
+    font-variant: small-caps;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-align: justify;
+    text-indent: 10px;
+    background-color: lightslategray;
+    background-image: url(image/bg1.jfif);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+h4 {
+    color: maroon;
+}
+
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+}

@@ -1,0 +1,72 @@
+body {
+    font-family: arial;
+    color: darkblue;
+}
+
+h1,
+h2 {
+    color: green;
+}
+
+ul li a {
+    color: inherit;
+}
+
+ol li a {
+    color: red;
+}
+
+#p1 {
+    color: purple;
+}
+
+.p2 {
+    color: yellow;
+}
+
+.cetak-tebal {
+    font-weight: bold;
+}
+
+p.cetak-tebal {
+    font-size: 30px;
+}
+
+.hello:link {
+    color: orange
+}
+
+.hello:hover {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.hello:active {
+    font-style: italic;
+}
+
+.hello:visited {
+    color: red;
+}
+
+li:nth-child(odd) a {
+    /* :first-child, last child*/
+    color: aqua;
+}
+
+p:first-of-type {
+    color: green;
+}
+
+p:last-of-type {
+    color: antiquewhite;
+}
+
+ul#sarapan li {
+    color: goldenrod;
+}
+
+ul#sarapan li.favorit {
+    color: aqua;
+}
